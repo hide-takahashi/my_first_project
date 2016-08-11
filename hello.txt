@@ -1,1 +1,5 @@
-hello! git
+hello!  GitHub
+
+Gitの操作方法について学んでいます。
+
+
